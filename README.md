@@ -1,10 +1,10 @@
 ### Hey there viewer! Welcome to my Github!
 
 ## I am a Full Stack web developer with experience in the following:
-..* HTML, CSS, Javascript
-..* React, Redux, API's
-..* Node.js, PostgreSQL, Heroku
-..* jest, cypress, unit testing
+- HTML, CSS, Javascript
+- React, Redux, API's
+- Node.js, PostgreSQL, Heroku
+- jest, cypress, unit testing
 
 
 - 🔭 I’m currently working on ... Full Stack web development
