@@ -1,11 +1,12 @@
-### Hey there viewer! Welcome to my Github!
+## Hey there viewer! Welcome to my Github!
 
-## I am a Full Stack web developer with experience in the following:
+### I am a Full Stack web developer with experience in the following:
 - HTML, CSS, Javascript
 - React, Redux, API's
 - Node.js, PostgreSQL, Heroku
 - jest, cypress, unit testing
 
+### Here is a few quick facts about me:
 
 - 🔭 I’m currently working on ... Full Stack web development
 - 🌱 I’m currently learning ... Typescript & Python
