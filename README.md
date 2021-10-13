@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Full Stack web development
 - 🌱 I’m currently learning ... Typescript & Python
 - 👯 I’m looking to collaborate on ... Typescript
