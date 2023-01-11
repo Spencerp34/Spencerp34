@@ -8,11 +8,9 @@
 
 ### Here is a few quick facts about me:
 
-- 🔭 I’m currently working on ... Full Stack web development
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ... Learning Carbon
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything especially React/Node.js
-- 📫 How to reach me: ... spencerp34@yahoo.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Hobbies are 3D printing and gaming!
+- 🔭 I’m currently working on front end web development
+- 🌱 I’m currently learning C# for Unity game development
+- 👯 I’m looking to collaborate on game development or machine learning
+- 💬 Ask me about game design
+- 📫 How to reach me: spencerp34@yahoo.com
+- 😄 Pronouns: He/Him
