@@ -6,6 +6,8 @@
 - Node.js, PostgreSQL, Heroku
 - jest, cypress, unit testing
 
+- React native Mobile apps
+
 ### Here is a few quick facts about me:
 
 - 🔭 I’m currently working on front end web development
