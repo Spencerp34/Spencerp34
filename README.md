@@ -4,7 +4,7 @@
 - HTML, CSS, Javascript
 - React, Redux, API's
 - Node.js, PostgreSQL, Heroku, Railway
-- jest, cypress, unit testing
+- Jest, cypress, unit testing
 
 - React native Mobile apps
 
