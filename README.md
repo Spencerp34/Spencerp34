@@ -3,10 +3,10 @@
 ### I am a Full Stack web developer with experience in the following:
 - HTML, CSS, Javascript
 - React, Redux, API's
-- Node.js, PostgreSQL, Heroku
+- Node.js, PostgreSQL, Heroku, Railway
 - jest, cypress, unit testing
 
-- React native Mobile apps with expo
+- React native Mobile apps
 
 ### Here is a few quick facts about me:
 
