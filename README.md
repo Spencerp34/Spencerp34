@@ -2,7 +2,7 @@
 
 ### I am a Full Stack web developer with experience in the following:
 - HTML, CSS, Javascript/Typescript 
-- React, Redux, API's
+- React, Redux, API
 - Node.js, PostgreSQL, Heroku, Railway
 - Jest, cypress, unit testing
 
