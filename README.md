@@ -15,4 +15,3 @@
 - 👯 I’m looking to collaborate on game development or machine learning
 - 💬 Ask me about game design
 - 📫 How to reach me: spencerp34@yahoo.com
-- 😄 Pronouns: He/Him
