@@ -6,7 +6,7 @@
 - Node.js, PostgreSQL, Heroku, Railway
 - Jest, cypress, unit testing
 
-- React native Mobile apps
+- React native Mobile applications 
 
 ### Here is a few quick facts about me:
 
