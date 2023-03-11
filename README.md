@@ -1,4 +1,4 @@
-## Hey there viewer! Welcome to my Github!
+## Hey there! Welcome to my Github!
 
 ### I am a Full Stack web developer with experience in the following:
 - HTML, CSS, Javascript/Typescript 
