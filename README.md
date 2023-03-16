@@ -13,5 +13,4 @@
 - 🔭 I’m currently working on front end web development
 - 🌱 I’m currently learning C# for Unity game development
 - 👯 I’m looking to collaborate on game development or machine learning
-- 💬 Ask me about game design
 - 📫 How to reach me: spencerp34@yahoo.com
