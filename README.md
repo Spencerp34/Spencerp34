@@ -10,7 +10,7 @@
 
 ### Here is a few quick facts about me:
 
-- 🔭 I’m currently working on front end web development
+- 🔭 I’m currently working on full stack web development
 - 🌱 I’m currently learning C# for Unity game development
 - 👯 I’m looking to collaborate on game development or machine learning
 - 📫 How to reach me: spencerp34@yahoo.com
