@@ -5,7 +5,6 @@
 - React, Redux, API
 - Node.js, PostgreSQL, Heroku, Railway
 - Jest, cypress, unit testing
-
 - React native Mobile apps
 
 ### Here is a few quick facts about me:
